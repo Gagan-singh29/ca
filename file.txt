@@ -1,3 +1,4 @@
 name: sk hosenur rahaman
 reg no: 12215338
 f name: md nurul hasan
+specialization: devops
